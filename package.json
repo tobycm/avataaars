@@ -6,12 +6,15 @@
   "scripts": {
     "start": "node app.js"
   },
-  "author": [ "Gregory Koberger", "soulteary" ],
+  "author": [
+    "Gregory Koberger",
+    "soulteary"
+  ],
   "license": "MIT",
   "dependencies": {
-    "@bugfix/avataaars": "^2021.801.813",
-    "express": "^4.17.1",
-    "react": "^16.14.0",
-    "react-dom": "^16.14.0"
+    "avataaars": "^2.0.0",
+    "express": "^4.19.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
   }
 }
